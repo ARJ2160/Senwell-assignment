@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.more_than_zero {
+  background-color: red !important;
+}
+
+.more_than_two {
+  background-color: yellow !important;
+}
+
+.more_than_ten {
+  background-color: green !important;
+}
